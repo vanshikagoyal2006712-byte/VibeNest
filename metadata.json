@@ -1,0 +1,6 @@
+{
+  "name": "VibeNest",
+  "description": "Find your people. Share your space. Lifestyle-based roommate matching built for compatible shared living.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
