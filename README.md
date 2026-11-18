@@ -16,7 +16,6 @@ Finding a suitable flatmate can be challenging because people may have different
 - Compatibility scores and profile ranking
 - Firebase Realtime Database integration
 
-*Note: Keep only the features that are currently implemented in your project.*
 
 ## Tech Stack
 - React.js
@@ -29,4 +28,4 @@ Finding a suitable flatmate can be challenging because people may have different
 Currently under development.
 
 ## Repository
-[View VibeNest on GitHub](https://github.com/vanshikagoyal2006712-byte/VibeNest)
+(https://github.com/vanshikagoyal2006712-byte/VibeNest)
